@@ -6,3 +6,8 @@ Aquest repositori de GitHub es farà servir per crear, des de zero, el lloc web 
 
 ## Darrera Actualització
 Dimecres, 8 de novembre, 2017
+
+### Eines Emprades
+- GIMP
+- TinyPNG
+- gEdit
